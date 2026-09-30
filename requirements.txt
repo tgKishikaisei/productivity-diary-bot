@@ -1,0 +1,5 @@
+python-dotenv==1.2.2
+aiogram==3.31.0
+# используются в utils/scraper.py
+requests>=2.32
+beautifulsoup4>=4.12
